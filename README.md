@@ -1,5 +1,5 @@
 # RPGgame
-crouse work of Java programming and object oriented design
+Coursework of Java programming and object oriented design
 ## Legends: Heroes and Monsters
 
 _Name: Jingyu Zhang  
